@@ -1,0 +1,49 @@
+.header{
+    text-align: center;
+    height: 100px;
+    /* background-image: url('DSC_0262.JPG'); */
+    /* background-image: url('../images/DSC_0260.JPG'); */
+    background-image: url('../images/Developer/png-transparent-man-using-laptop-illustration-web-development-web-developer-web-design-web-development-text-computer-presentation.png');
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-position: center;
+    background-size: 200px;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    margin: 20px;
+    border: 10px solid rebeccapurple;
+    box-shadow: 10px 10px 10px blue;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.incident{
+    border: 2px solid purple;
+    margin: 20px;
+    display: inline-block;
+}
+.dolor{
+    border: 3px solid burlywood;
+    height:  60px;
+    display: inline-block;
+}
+body{
+    text-align: center;
+}
+.blog{
+   background-color: red;
+}
+p{
+    color: greenyellow;
+}
